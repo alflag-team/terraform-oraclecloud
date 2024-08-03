@@ -10,9 +10,8 @@ variable "fingerprint" {
   type = string
 }
 
-variable "private_key_path" {
+variable "private_key" {
   type = string
-  default = "../../../secrets/terraform-oraclecloud.pem"
 }
 
 variable "region" {
