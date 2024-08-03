@@ -9,14 +9,14 @@ Oracle Cloud を管理している Terraform のコードが管理されてい�
 ```plain
 -- README.md
 -- environments/
-   -- <env>/
+   -- ENVORONMENT/
       -- main.tf
       -- provider.tf
       -- variables.tf
       -- versions.tf
    -- ...
 -- modules/
-   -- <module>
+   -- MODULE/
       -- .terraform-docs.yml
       -- header.md
       -- main.tf
