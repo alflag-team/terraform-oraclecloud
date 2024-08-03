@@ -38,5 +38,14 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_cidr_blocks"></a> [cidr\_blocks](#output\_cidr\_blocks) | n/a |
+| <a name="output_compartment_id"></a> [compartment\_id](#output\_compartment\_id) | n/a |
+| <a name="output_display_name"></a> [display\_name](#output\_display\_name) | n/a |
+| <a name="output_dns_label"></a> [dns\_label](#output\_dns\_label) | n/a |
+| <a name="output_id"></a> [id](#output\_id) | n/a |
+| <a name="output_state"></a> [state](#output\_state) | n/a |
+| <a name="output_time_created"></a> [time\_created](#output\_time\_created) | n/a |
+| <a name="output_vcn_domain_name"></a> [vcn\_domain\_name](#output\_vcn\_domain\_name) | n/a |
 <!-- END_TF_DOCS -->
