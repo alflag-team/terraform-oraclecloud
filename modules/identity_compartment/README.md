@@ -37,5 +37,7 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_compartment_id"></a> [compartment\_id](#output\_compartment\_id) | n/a |
 <!-- END_TF_DOCS -->

@@ -31,10 +31,10 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_cidr_blocks"></a> [cidr\_blocks](#input\_cidr\_blocks) | The list of IPv4 CIDR blocks the VCN will use. | `any` | n/a | yes |
-| <a name="input_compartment_id"></a> [compartment\_id](#input\_compartment\_id) | The OCID of the compartment containing the VCN. | `any` | n/a | yes |
-| <a name="input_display_name"></a> [display\_name](#input\_display\_name) | A user-friendly name. Does not have to be unique, and it's changeable. Avoid entering confidential information. | `any` | n/a | yes |
-| <a name="input_dns_label"></a> [dns\_label](#input\_dns\_label) | A DNS label for the VCN, used in conjunction with the VNIC's hostname and subnet's DNS label to form a fully qualified domain name (FQDN) for each VNIC within this subnet (for example, bminstance1.subnet123.vcn1.oraclevcn.com). Must be an alphanumeric string that begins with a letter. The value cannot be changed. | `any` | n/a | yes |
+| <a name="input_cidr_blocks"></a> [cidr\_blocks](#input\_cidr\_blocks) | n/a | `any` | n/a | yes |
+| <a name="input_compartment_id"></a> [compartment\_id](#input\_compartment\_id) | n/a | `any` | n/a | yes |
+| <a name="input_display_name"></a> [display\_name](#input\_display\_name) | n/a | `any` | n/a | yes |
+| <a name="input_dns_label"></a> [dns\_label](#input\_dns\_label) | n/a | `any` | n/a | yes |
 
 ## Outputs
 
