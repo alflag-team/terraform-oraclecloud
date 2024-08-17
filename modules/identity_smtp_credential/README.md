@@ -38,9 +38,10 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_compartment_id"></a> [compartment\_id](#output\_compartment\_id) | n/a |
 | <a name="output_description"></a> [description](#output\_description) | n/a |
 | <a name="output_id"></a> [id](#output\_id) | n/a |
-| <a name="output_name"></a> [name](#output\_name) | n/a |
+| <a name="output_password"></a> [password](#output\_password) | n/a |
 | <a name="output_state"></a> [state](#output\_state) | n/a |
+| <a name="output_user_id"></a> [user\_id](#output\_user\_id) | n/a |
+| <a name="output_username"></a> [username](#output\_username) | n/a |
 <!-- END_TF_DOCS -->
